@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">AkilliDuyma</string>
-
-    <string name="hello_world">Hello world!</string>
+    <string name="ses_seviyesi">Voice Level</string>
     <string name="action_settings">Settings</string>
 </resources>

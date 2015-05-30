@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AkilliDuyma</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="ses_seviyesi">Ses Seviyesi</string>
+</resources>
